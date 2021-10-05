@@ -1,0 +1,21 @@
+{
+    "name": "scrimba-theme",
+    "displayName": "scrimba-theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Newl Scrimba",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Newl Scrimba-color-theme.json"
+            }
+        ]
+    }
+}
