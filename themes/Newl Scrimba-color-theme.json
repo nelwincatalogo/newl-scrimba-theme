@@ -41,7 +41,7 @@
     "sideBar.background": "#2b2d34",
     "sideBarSectionHeader.background": "#212329",
     "statusBar.background": "#75aaff",
-    "tab.activeBackground": "#212329",
+    "tab.activeBackground": "#2b2d34",
     "tab.border": "#ff000000",
     "tab.inactiveBackground": "#212329",
     "titleBar.activeBackground": "#212329",
@@ -484,7 +484,7 @@
     "welcomePage.tileBackground": "#2b2d34",
     "welcomePage.tileHoverBackground": "#3b454b",
     "welcomePage.tileShadow.": "#0000005c",
-    "widget.shadow": "#0000005c"
+    "widget.shadow": "#0000005c",
     // "activityBar.activeFocusBorder": null,
     // "activityBar.border": null,
     // "button.border": null,
@@ -567,7 +567,7 @@
     // "statusBar.debuggingBorder": null,
     // "statusBar.noFolderBorder": null,
     // "tab.activeBorder": null,
-    // "tab.activeBorderTop": null,
+    "tab.activeBorderTop": "#10B981"
     // "tab.hoverBackground": null,
     // "tab.hoverBorder": null,
     // "tab.hoverForeground": null,
